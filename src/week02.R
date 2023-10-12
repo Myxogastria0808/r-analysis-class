@@ -1,0 +1,1 @@
+a <- read.csv('C:/Users/admin/Documents/work-space/R/analysis/city_data_2015.csv')
